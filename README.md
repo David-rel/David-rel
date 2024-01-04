@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m own a comapny called CodeCrafty   <a href="https://codecrafty.dev" target="_blank">click here</a>
+<p align="left"><br>- 🔭 I own a company called CodeCrafty   <a href="https://codecrafty.dev" target="_blank">click here</a>
 <br>- 📚 I'm currently learning AI and professional Web development<br>- ⚡ In my free time I play soccer</p>
 
 ###
