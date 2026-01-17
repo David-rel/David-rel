@@ -47,19 +47,19 @@
 
 <div align="left">
   <a href="https://www.instagram.com/_david_rel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/invite/z6EybDCU" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/david-fales-340861245/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/_David_Rel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100080271740255" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo"  />
   </a>
 </div>
 
@@ -70,11 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/David-rel/count.svg" alt="profile views counter" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=David-rel.David-rel" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=David-rel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views counter" />
 </div>
 
 ###
@@ -96,7 +92,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=David-rel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=David-rel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
 </div>
 
 ###
