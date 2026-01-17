@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://my-portfolio-ccab3.web.app/Portfolio-Photos/Me.jpg"  />
+<img align="right" height="150" src="https://my-portfolio-ccab3.web.app/Portfolio-Photos/Me.jpg" alt="David Fales" />
 
 ###
 
@@ -70,37 +70,33 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/David-rel/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/David-rel/count.svg" alt="profile views counter" />
 </div>
-
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=David-rel.David-rel&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=David-rel.David-rel" alt="visitor badge" />
 </div>
 
 ###
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left"><br>- 🔭 I own a company called CodeCrafty   <a href="https://codecrafty.dev" target="_blank">click here</a>
-<br>- 📚 I'm currently learning AI and professional Web development<br>- ⚡ In my free time I play soccer</p>
+<p align="left">
+  - 🔭 I own a company called <a href="https://codecrafty.dev" target="_blank">CodeCrafty</a><br>
+  - 📚 I'm currently learning AI and professional Web development<br>
+  - ⚡ In my free time I play soccer
+</p>
 
 ###
 
-
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=David-rel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
 
 ###
